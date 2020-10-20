@@ -1,14 +1,12 @@
 *{  
-    box-sizing: border-box;
+    box-sizing: content-box;
     margin: 0;
     padding: 0;
 }
 
 .box1{
-    width: 200px;
-    height: 200px;
-    margin: 5px;
-    padding: 5px;
+    width: 150px;
+    padding: 30px;
     border: solid red 50px;
     background-color: brown;
 }
